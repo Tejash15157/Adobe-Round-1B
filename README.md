@@ -5,8 +5,8 @@
 ### Prepare persona.json
 ```json
 {
-  "persona": "PhD Researcher in Computational Biology",
-  "job": "Prepare a comprehensive literature review focusing on methodologies, datasets, and performance benchmarks"
+  "persona": "Software Engineer - Backend Development",
+  "job": "Python developer with experience in web frameworks like Django or Flask, database management, API development, and cloud deployment"
 }
 ```
 
